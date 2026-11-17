@@ -5,6 +5,7 @@
    Verilog, SystemVerilog, and/or TL-Verilog can be used.
    Use of Tiny Tapeout Demo Boards (as virtualized in the VIZ tab) is supported.
    See the corresponding Git repository for build instructions.
+   (Test of makerchip_tt_run.)
    **/
 
    use(m5-1.0)  // See M5 docs in Makerchip IDE Learn menu.
